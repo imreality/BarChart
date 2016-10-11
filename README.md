@@ -6,7 +6,7 @@ INTRODUCTION
 IMReality is a coming soon project for VR/AR. The IMReality is a Unity based components for virtual, augmented and mixed realities. 
 It will contain a good set of widgets for perfect user interaction and data visualization in any reality. Now there is preparing charts for this project: bar, lines and pie charts.
 
-All components will be perfect adapted to any VR/AR user actions because of gase and gestures tracking. 
+All components will be perfect adapted to any VR/AR user actions because of gaze and gestures tracking. 
 The flexible customized API will allow you to make exactly what you need for your reality.
 
 SUPPORTED DEVICES
@@ -26,6 +26,6 @@ JOIN US
 
 Any feedback is welcome!
 
-Our website is https://imreality.github.io/WebSite/
-Our twitter is https://twitter.com/reality_im
-Our email is imreality.project@gmail.com 
+* Our website is https://imreality.github.io/WebSite/
+* Our twitter is https://twitter.com/reality_im
+* Our email is imreality.project@gmail.com 
